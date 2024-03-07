@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(10, 197, 197);
+}
+h1{
+    color: blue;
+}
+.gen{
+    color: blueviolet;
+}
+.stdn{
+    color: crimson;
+}
+/*hr{
+    color:brown;
+    font-size: 300px;
+} */
+
+/* css selectors */
+/* 1. tag selectors
+2. class selectors
+3. ID selectors */
